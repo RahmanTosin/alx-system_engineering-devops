@@ -1,1 +1,1 @@
-execute permission to owner
+script multiple permissions
