@@ -1,1 +1,1 @@
-script multiple permissions
+everybody
